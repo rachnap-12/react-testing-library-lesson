@@ -5,7 +5,7 @@ const Form = () => {
   const [hasError, setHasError] = useState(false);
 
   useEffect(() => {
-    console.log("Runs on page load....");
+    console.log("Runs on page load .... testingggg");
   }, [])
 
   const handleSubmit = e => {
